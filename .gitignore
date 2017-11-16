@@ -1,0 +1,12 @@
+#Dossiers
+target
+.metadata
+Servers
+.settings
+RemoteSystemsTempFiles
+
+#Fichiers
+.classpath
+*.project
+*.bak
+*.log
